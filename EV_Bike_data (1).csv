@@ -1,0 +1,385 @@
+Unnamed: 0,Bike Name,Price,Kwh,Range_per_charge,Max_speed
+0,Ola S1 Pro,129000.0,4.0,195.0,120 km/Hr
+1,TVS iQube,117000.0,3.4,100.0,78 km/Hr
+2,Ather 450X,128000.0,3.7,150.0,90 km/Hr
+3,Bajaj Chetak,144000.0,3.2,127.0,73 km/Hr
+4,Ola S1 X,79999.0,2.0,95.0,85 km/Hr
+5,Hero Electric Optima,129000.0,,,6.5 Hr
+6,Revolt RV400,143000.0,3.24,150.0,85 km/Hr
+7,Vida V1,97800.0,3.94,110.0,80 km/Hr
+8,Kinetic e-Luna,74990.0,1.7,90.0,50 km/Hr
+9,Ola S1 Air,104000.0,3.0,151.0,90 km/Hr
+10,Simple One,150000.0,5.0,212.0,105 km/Hr
+11,Yulu Wynn,55555.0,,,
+12,River Indie,138000.0,,,
+13,Ultraviolette F77,550000.0,10.3,307.0,152 km/Hr
+14,Oben Rorr,149000.0,4.4,187.0,100 km/Hr
+15,Ather 450S,109000.00000000001,2.9,115.0,90 km/Hr
+16,Tork Kratos R,167000.0,,,6-7 Hr
+17,Bounce Infinity E1+,89999.0,1.9,85.0,65 km/Hr
+18,Komaki Ranger,185000.0,,,
+19,Ampere Magnus EX,104000.0,2.29,121.0,50 km/Hr
+20,AMO Electric Jaunty-3W,78819.0,,,6 Hr
+21,Kinetic Green Zing,84990.0,,,3-4 Hr
+22,TVS X,249000.00000000003,4.44,140.0,105 km/Hr
+23,Okinawa PraisePro,99645.0,,,2-3 Hr
+24,Komaki Flora,69000.0,3.0,100.0,5 Hr
+25,Matter Aera,183000.0,,,
+26,Okaya Faast,119000.0,4.4,160.0,65 km/Hr
+27,Motovolt Urbn e-Bike,53999.0,0.72,120.0,25 km/Hr
+28,Ather 450 Apex,188000.0,3.7,157.0,100 km/Hr
+29,Hero Electric Atria,77690.0,,,4-5 Hr
+30,Hero Electric NYX,86540.0,,,4-5 Hr
+31,Ozotec Bheem,65990.0,,,
+32,BattRE Electric Storie,101000.0,3.1,132.0,5 Hr
+33,ABZO VS01,192000.0,5.04,180.0,6.35 Hr
+34,BGauss C12i,126000.0,,,4.15-4.3 Hr
+35,Komaki XGT X One,78920.0,,,
+36,Kinetic Green Zoom,82500.0,,,3-4 Hr
+37,Kabira Mobility KM3000,174000.0,4.1,178.0,120 km/Hr
+38,Zelio Gracy i,59755.0,,,
+39,Avon E Scoot,45000.0,0.96,65.0,24 km/Hr
+40,Komaki XGT CAT 2.0,113999.99999999999,,,
+41,ADMS EVA,135000.0,2.88,150.0,
+42,PURE EV Epluto 7G,89999.0,,,4 Hr
+43,HCD India NPS Cargo,98850.0,,,3 Hr
+44,BNC Motors Challenger,117000.0,,,3-4 Hr
+45,Avon E Plus,25000.0,0.58,50.0,24 km/Hr
+46,BattRE Electric LoEV,59990.0,,,
+47,Revamp Moto RM Buddie 25,69999.0,,,3 Hr
+48,Lectrix EV LXS G 2.0,87999.0,,,3 Hr
+49,Power EV P-Sport,189000.0,4.32,210.0,85 km/Hr
+50,Simple Dot One,139000.0,,,
+51,Gravton Quanta,99000.0,,,
+52,Ampere NXG,155000.0,,,
+53,BGauss D15,145000.0,,,5.5 Hr
+54,Benling Aura,121000.0,,,4 Hr
+55,Deltic Drixx,86990.0,1.58,100.0,25 km/Hr
+56,Hero Electric Flash,59640.0,,,4-5 Hr
+57,One Electric Motorcycles Kridn,135000.0,,,
+58,Hop Electric LEO,97504.0,2.0,125.0,52 km/Hr
+59,Joy e-bike Mihos,110000.00000000001,,,4 Hr
+60,Sokudo Acute,132000.0,3.1,150.0,65 km/Hr
+61,Warivo Motors Nexa,74300.0,,,
+62,Okinawa Dual 100,119000.0,,,5-6 Hr
+63,eblu Feo,99999.0,2.52,110.0,60 km/Hr
+64,Revolt RV400 BRZ,147000.0,3.24,150.0,85 km/Hr
+65,AMO Electric Jaunty,90064.0,,,6 Hr
+66,Komaki XGT KM,93045.0,,,
+67,ADMS Mantra,98000.0,,,
+68,Joy e-bike Wolf,91350.0,1.38,60.0,25 km/Hr
+69,Ozotec Flio,132000.0,,,
+70,Atumobile AtumVader,138000.0,2.9,100.0,65 km/Hr
+71,Jitendra JMT 1000HS,97224.0,2.0,80.0,52 km/Hr
+72,Gemopai Miso,44000.0,,,3-4 Hr
+73,PURE EV Epluto 7G Max,113999.99999999999,,,
+74,Zelio Eeva,57475.0,,,
+75,Avon E Lite,28000.0,,,4-8 Hr
+76,Atumobile Atum Version 1.0,61500.0,,,3-4 Hr
+77,Odysse Electric Evoqis,171000.0,,,
+78,Joy e-bike Gen Next Nanu,88250.0,,,3-3.5 Hr
+79,Kinetic Green Flex,109000.00000000001,,,3 Hr
+80,Orxa Mantis,360000.0,,,
+81,PURE EV ETrance Neo,83999.0,2.5,120.0,60 km/Hr
+82,NIJ Automotive Accelero R14,73326.0,1.54,180.0,3-4 Hr
+83,Okinawa Okhi90,186000.0,,,5-6 Hr
+84,Ujaas eGo LA,39880.0,1.56,75.0,6-7 Hr
+85,Benling Falcon,69540.0,1.8,75.0,25 km/Hr
+86,Okinawa iPraise+,145000.0,,,4-5 Hr
+87,ADMS GTR,79800.0,1.44,100.0,4-8 Hr
+88,Evtric Ride,98100.0,,,
+89,Detel EV Easy Plus,46999.0,,,
+90,Okaya Freedum,74899.0,1.44,75.0,25 km/Hr
+91,Tunwal Storm ZX Advance 2,134000.0,,,
+92,Kabira Mobility KM4000,176000.0,4.1,178.0,120 km/Hr
+93,Tunwal Sport 63 Mini,49990.0,,,
+94,Odysse Electric Hawk,99400.0,2.96,170.0,45 km/Hr
+95,Hero Electric Photon,110000.00000000001,,,8-10 Hr
+96,Srivaru Motors Prana,300000.0,,,4.5 Hr
+97,ADMS Sathi,99000.0,1.56,100.0,
+98,White Carbon Motors GT5,125000.0,,,3-4 Hr
+99,Kyte Energy Magnum Pro,80999.0,,,
+100,Okinawa Lite,74999.0,,,4-5 Hr
+101,e-Sprinto,82000.0,1.74,100.0,25 km/Hr
+102,Tunwal Roma S,95000.0,,,
+103,Ampere Reo Li Plus,69900.0,1.34,70.0,25 km/Hr
+104,PURE EV EcoDryft,129000.0,,,3 Hr
+105,Kinetic Green Zulu,94990.0,,,
+106,Fidato Evtech Easy Go,86315.0,,,
+107,Hero Electric Eddy,72000.0,1.54,85.0,25 km/Hr
+108,PURE EV eTryst 350,149000.0,3.5,140.0,85 km/Hr
+109,Fidato Evtech Loder,83490.0,,,
+110,SVITCH CSR 762,189000.0,3.6,160.0,110 km/Hr
+111,Komaki SE,96968.0,,,5 Hr
+112,Komaki XGT X5,100000.0,,,
+113,Fujiyama Spectra,77119.0,1.3,,
+114,Shema Eagle,64999.0,,,4-5 Hr
+115,Ujaas eSpa LA,48174.0,1.56,60.0,6-7 Hr
+116,Zelio Legender,60476.0,,,
+117,Quantum Milan,86625.0,,,
+118,Joy e-bike Gen Next Nanu Plus,83000.0,2.18,100.0,55 km/Hr
+119,Hop Oxo,160000.0,,,4.45 Hr
+120,Odysse Electric V2,100000.0,1.3,75.0,25 km/Hr
+121,Okaya Faast F2B,93950.0,,,3-4 Hr
+122,Avera Retrosa,88900.0,,,
+123,Tunwal Storm ZX,90000.0,,,
+124,Ampere Primus,146000.0,3.0,107.0,77 km/Hr
+125,Hayasa Nirbhar,65550.0,,,
+126,Kick EV Smassh,170000.0,,,3.5 Hr
+127,Joy e-bike Beast,242000.0,5.18,110.0,90 km/Hr
+128,Zelio Gracy,59755.0,,,
+129,Birla JF,231000.0,1.56,,
+130,White Carbon Motors O3,55900.0,0.96,60.0,25 km/Hr
+131,Deltic Legion,90990.0,,,5-6 Hr
+132,Okinawa R30,61998.0,,,4-5 Hr
+133,NIJ Automotive Accelero X-Pro,58100.0,1.68,54.0,3-4 Hr
+134,Jitendra JMT 1000 3K,127000.0,3.12,126.0,52 km/Hr
+135,Komaki MX3,113999.99999999999,,,
+136,Quantum BZiness,98175.0,,,
+137,Ujaas eZy,31880.0,1.25,60.0,6-7 Hr
+138,Ampere Zeal EX,96690.0,2.2,120.0,55 km/Hr
+139,Komaki XGT X4,124000.0,,,
+140,PURE EV ETrance+,93999.0,1.8,85.0,25 km/Hr
+141,iGowise BeiGo X4,110000.00000000001,,,
+142,Okinawa Ridge,84606.0,,,
+143,Joy e-bike Glob,58000.0,13.98,60.0,25 km/Hr
+144,Lectrix EV SX25,54499.0,,,4 Hr
+145,Raftaar Galaxy,51900.0,,,
+146,Zelio Eeva ZX,62000.0,,,
+147,Aftek Elmo,140000.0,,,
+148,Okaya Faast F2F,83999.0,2.16,80.0,50 km/Hr
+149,Joy e-bike Monster,110000.00000000001,1.66,75.0,25 km/Hr
+150,GT One,85945.0,,,7-8 Hr
+151,Hero Lectro H5,25999.0,1.56,30.0,25 km/Hr
+152,Viertric Max,68000.0,,,4-5 Hr
+153,Joy e-bike Wolf Plus,87000.0,2.12,100.0,55 km/Hr
+154,Gemopai Ryder,84302.0,,,
+155,GT One Plus,86970.0,1.56,65.0,25 km/Hr
+156,Rowwet Trono,180000.0,,,
+157,Komaki Venice,149000.0,,,
+158,Greta Harper ZX Series-I,41999.0,,,
+159,RunR HS Electric,113999.99999999999,,,
+160,Gemopai Astrid Lite,92322.0,,,
+161,EMotorad Nighthawk,500000.0,,,
+162,E-Went Rabbitor,83000.0,1.8,70.0,28 km/Hr
+163,Tunwal Mini Lithino,54990.0,,,
+164,Hop Electric LYF,74500.0,1.12,125.0,25 km/Hr
+165,Tunwal Sports 63 Alpha 48V,54943.0,,,
+166,Quantum Elektron,91939.0,,,
+167,Aeroride Bravo,159000.0,,,
+168,Hero Lectro C8,36999.0,,,4 Hr
+169,Lohia Oma Star,41444.0,,,6-8 Hr
+170,Komaki DT 3000,121000.0,,,
+171,Joy e-bike Hurricane,233000.0,4.75,80.0,90 km/Hr
+172,Benling Believe,125000.0,3.2,,4 Hr
+173,Rowwet Rame XL,191000.0,,,3-4 Hr
+174,Techo Electra Saathi,62738.0,1.06,80.0,2.5-4 Hr
+175,Benling Kriti,64151.0,1.34,60.0,25 km/Hr
+176,Kabira Hermes 75,97754.0,,,
+177,Kabira Mobility Intercity Neo,57000.0,2.1,110.0,24 km/Hr
+178,Kabira Mobility Kollegio Plus,48000.0,2.1,110.0,24 km/Hr
+179,Kabira Mobility Aetos 100,55000.0,2.1,110.0,24 km/Hr
+180,Kabira Mobility Kollegio Neo,47000.0,1.15,100.0,24 km/Hr
+181,Joy e-bike Thunderbolt,233000.0,5.18,110.0,90 km/Hr
+182,PURE EV Epluto,77999.0,,,4 Hr
+183,EeVe Xeniaa,86999.0,1.2,80.0,25 km/Hr
+184,PURE EV Epluto 7G Pro,99999.0,,,
+185,Toutche Heileo M200,62990.0,,,
+186,Toutche Heileo H200,62990.0,,,
+187,Toutche Heileo H100,46499.0,,,
+188,Toutche Heileo M100,46499.0,,,
+189,Odysse Electric E2Go,94100.0,1.68,60.0,25 km/Hr
+190,Odysse Electric VADER,161000.0,3.7,,4 Hr
+191,EMotorad T-Rex,42999.0,,,4-5 Hr
+192,EMotorad EMX,58999.0,,,4 Hr
+193,EMotorad X1,24999.0,,,4-5 Hr
+194,EMotorad X3,32999.0,,,
+195,EMotorad X2,27999.0,,,
+196,SVITCH XE,88999.0,,,
+197,SVITCH XE+,109000.00000000001,,,
+198,SVITCH MXE,59999.0,,,
+199,Evtric Axis,75482.0,,,
+200,Poise NX120,129000.0,,,4-5 Hr
+201,Poise Grace,97174.0,,,
+202,Deltic Trento,128000.0,,,5-6 Hr
+203,Deltic ZGS,97490.0,,,5-6 Hr
+204,DAO Zor 405,89184.0,1.2,70.0,45 km/Hr
+205,DAO Vidyut 108,86449.0,1.2,80.0,25 km/Hr
+206,Okaya ClassIQ,74499.0,1.44,70.0,25 km/Hr
+207,Okaya Faast F2T,92900.0,,,3-4 Hr
+208,Okaya Motofaast,128000.0,3.5,130.0,70 km/Hr
+209,DAO 703,126000.0,1.8,100.0,70 km/Hr
+210,Shema Tuff,70500.0,1.81,90.0,25 km/Hr
+211,Shema Zoom,65055.0,,,4-5 Hr
+212,Shema Bold,85314.0,,,5 Hr
+213,Shema Hobby,90140.0,,,3-4 Hr
+214,Motovolt Ice,31700.0,,,
+215,Motovolt Hum,45434.0,,,
+216,Hero Lectro F3i,42999.0,,,
+217,Hero Lectro WINN-X,49999.0,,,7 Hr
+218,Hero Lectro C1,32999.0,,,3-4 Hr
+219,Hero Lectro WINN,49999.0,,,7 Hr
+220,Hero Lectro C5X,38999.0,,,3-4 Hr
+221,Hero Lectro F1,38999.0,,,3-4 Hr
+222,Hero Lectro H3,24499.0,1.56,30.0,25 km/Hr
+223,Ampere Magnus LT,93900.0,1.8,81.0,45 km/Hr
+224,Nexzu Rompus Plus,29750.0,,,2.5-3 Hr
+225,Nexzu Roadlark,43799.0,,,7-8 Hr
+226,Nexzu Bazinga,46950.0,,,3-4 Hr
+227,Hero Lectro C5,30999.0,,,4 Hr
+228,Hero Lectro C6,34999.0,,,4 Hr
+229,Hero Lectro F6i,57999.0,,,5-6 Hr
+230,Hero Lectro C3,28999.0,,,4 Hr
+231,Hero Lectro C7,34999.0,,,
+232,Hero Lectro C7+,34999.0,,,
+233,Hero Lectro C9,43999.0,,,
+234,Hero Lectro C8i,39999.0,,,
+235,Hero Lectro F2I,39999.0,,,
+236,BattRE Electric ONE,73900.0,3.1,150.0,2.5 Hr
+237,Motovolt Kivo,44159.0,,,
+238,EVeium CZAR,206999.99999999997,,,4 Hr
+239,Motovolt Kivo Easy,44159.0,,,
+240,EVeium COMET,184000.0,,,4 Hr
+241,EVeium COSMO,139000.0,,,4 Hr
+242,Motovolt Kivo 24,44159.0,,,
+243,Fujiyama Spectra Pro,79975.0,1.8,,
+244,Fujiyama Ozone,99918.0,,,
+245,Avon E Mate,45000.0,0.96,65.0,18 km/Hr
+246,Avon E Star,60000.0,1.58,65.0,50 km/Hr
+247,Lohia Oma Star Li,51750.0,,,3 Hr
+248,Super Eco SE 2,62652.0,,,3-4 Hr
+249,Super Eco S 2,105000.0,,,4-6 Hr
+250,YUKIE Yuvee,44385.0,,,8-10 Hr
+251,YUKIE Shiga,51115.0,,,8-10 Hr
+252,Evolet Derby,74999.0,,,3-4 Hr
+253,Evolet Pony,57999.0,,,3-4 Hr
+254,Evolet Polo,69999.0,,,3-4 Hr
+255,Evolet Dhanno,76999.0,,,3-4 Hr
+256,Crayon Zeez,58000.0,,,
+257,Merico Fashia,61311.0,,,
+258,Merico Eagle-100(6.0),49781.0,,,
+259,Merico Eagle-100(4.8),42850.0,,,
+260,M2GO X1,110000.00000000001,1.56,120.0,50 km/Hr
+261,Crayon Envy,65000.0,,,
+262,Merico Speedstar,53692.0,,,
+263,Merico Evanka,62505.0,,,
+264,AMO Electric Inspirer,86626.0,,,6 Hr
+265,AMO Electric Jaunty Plus,87060.0,,,4 Hr
+266,AMO Electric Jaunty Pro,74078.0,,,6 Hr
+267,Essel Energy GET 1,41500.0,,,4-5 Hr
+268,Essel Energy GET 7,48500.0,,,4-5 Hr
+269,Tunwal Sport 63 Mid,71990.0,,,
+270,Tunwal Elektrika 60,65040.0,,,
+271,EeVe Wind,59999.0,1.62,70.0,25 km/Hr
+272,EeVe Atreo,68999.0,1.94,85.0,25 km/Hr
+273,EeVe Ahava,62499.0,1.62,70.0,25 km/Hr
+274,EeVe Soul,120000.0,,,4-5 Hr
+275,Gemopai Ryder SuperMax,79999.0,,,5-6 Hr
+276,M2GO Civitas,126000.0,2.09,120.0,85 km/Hr
+277,Amo Electric Feisty EV,68000.0,,,6 Hr
+278,Kabira Mobility Kollegio,45990.0,,,4 Hr
+279,Kabira Mobility Intercity Aeolus,68990.0,,,4-6 Hr
+280,Tunwal Lithino 2.0,71990.0,,,
+281,Tunwal Lithino Li,74990.0,,,
+282,Tunwal Storm ZX Advance 1,113999.99999999999,,,
+283,Tunwal TEM G33,92000.0,,,
+284,Gowel ZX,57449.0,1.15,70.0,25 km/Hr
+285,Tunwal T 133,100000.0,,,
+286,Tunwal TZ 3.3,114999.99999999999,,,
+287,Yo Drift,51000.0,1.2,60.0,25 km/Hr
+288,Yo Edge,49000.0,1.2,60.0,25 km/Hr
+289,Stella Moto SA 1000,75000.0,,,
+290,Stella Moto SA 2000,94000.0,,,
+291,NDS ECO MOTORS Lio Plus,123000.0,1.51,165.0,55 km/Hr
+292,NDS ECO MOTORS Lio,88166.0,1.51,83.0,55 km/Hr
+293,Earth Energy EV Evolve Z,130000.0,,,2.5 Hr
+294,Earth Energy EV Evolve R,142000.0,,,2.5 Hr
+295,Earth Energy EV Glyde Plus,95000.0,,,
+296,Detel EV Veeru,70000.0,,,
+297,Stella Moto BUZZ,95000.0,,,
+298,EMotorad Doodle,49999.0,,,5-6 Hr
+299,Velev Motors VIO,52000.0,0.96,70.0,25 km/Hr
+300,Velev Motors VEV 01,32500.0,1.15,80.0,25 km/Hr
+301,EMotorad Desert Eagle,475000.0,,,
+302,Geliose Hope,46999.0,,,4 Hr
+303,Prevail Electric Elite,129000.0,,,8 Hr
+304,Prevail Electric Finesse,99999.0,,,4 Hr
+305,Prevail Electric Wolfury,89999.0,,,4 Hr
+306,Warivo Motors Queen SX,75300.0,,,
+307,Warivo Motors Queen,46800.0,,,
+308,Warivo Motors Smarty,74300.0,,,
+309,Warivo Motors Enduro,53800.0,,,
+310,Viertric Eagle,70095.0,,,4-5 Hr
+311,Viertric Mist,72000.0,,,4-5 Hr
+312,Viertric XL,70000.0,,,4-5 Hr
+313,Evtric Connect,95151.0,,,4-5 Hr
+314,Rugged G1,78498.0,,,4 Hr
+315,Evtric Rise,141000.0,,,4-5 Hr
+316,iVOOMi S1,84999.0,2.1,100.0,55 km/Hr
+317,iVOOMi Eco,81999.0,,,4 Hr
+318,iVOOMi Jeet,99999.0,,,
+319,One Moto Electa,199000.0,,,4 Hr
+320,One Moto Commuta,130000.0,1.65,80.0,55 km/Hr
+321,RBSeVA Rider New,70750.0,,,
+322,RBSeVA Legend,77230.0,,,
+323,RBSeVA Marvel,52550.0,,,
+324,RBSeVA Rider,67689.0,,,
+325,One Moto Byka,180000.0,,,5 Hr
+326,GRP EV 11 Maxx,82000.0,1.92,100.0,3-4 Hr
+327,GRP EV 11 Pro,84000.0,1.92,100.0,3-4 Hr
+328,Cyborg Yoda,184000.0,,,4-5 Hr
+329,Cyborg Bob-e,94999.0,2.88,110.0,85 km/Hr
+330,GRP EV 11 Mini,74500.0,1.5,70.0,3-4 Hr
+331,Wroley Mars,66000.0,1.44,75.0,25 km/Hr
+332,Fidato Evtech EasyGo Plus,95605.0,,,
+333,Fidato Evtech Future 2020,70300.0,,,
+334,Fidato Evtech 21,89199.0,,,
+335,Fidato Evtech Cutie,54600.0,,,
+336,Wroley Platina,73700.0,1.8,90.0,25 km/Hr
+337,Wroley Posh,78100.0,1.8,90.0,25 km/Hr
+338,NIJ Automotive Accelero Plus,77625.0,1.54,190.0,3-4 Hr
+339,Jitendra JMT Classic City,74059.0,1.56,70.0,25 km/Hr
+340,NIJ Automotive Flion,76763.0,,,
+341,NIJ Automotive QV60,77050.0,,,
+342,Jitendra JMT 1000HS 26,89000.0,,,3.5-4 Hr
+343,Jitendra Primo,79999.0,,,3.5-4 Hr
+344,Jitendra JET 320,77060.0,1.56,70.0,25 km/Hr
+345,GT Drive Pro,90530.0,,,
+346,GT Prime,77763.0,,,4-5 Hr
+347,GT Drive Plus,103000.0,,,4-5 Hr
+348,GT Soul,75350.0,,,7-8 Hr
+349,GT Flying,77763.0,,,4-5 Hr
+350,Firefox Adventron,63000.0,,,
+351,Firefox Urban Eco,74999.0,,,
+352,Hayasa Daksha,74050.0,,,
+353,Hayasa Ojas,80550.0,,,
+354,Hayasa Ira,76750.0,,,
+355,Komaki X2 Vogue,88500.0,,,
+356,Komaki TN-95,139000.0,,,
+357,Komaki XGT VP,84681.0,,,
+358,Polarity Smart Sport,40000.0,,,4 Hr
+359,Komaki XGT Classic,108000.0,,,
+360,Komaki LY,78000.0,,,
+361,Techo Electra Neo,55053.0,1.15,60.0,2.5-4 Hr
+362,Li-ions Spock Electric Scooter,65000.0,2.88,130.0,45 km/Hr
+363,Ujaas eSpa Li,54880.0,1.5,75.0,3-4 Hr
+364,Ujaas eGo T3,70224.0,2.3,100.0,6-7 Hr
+365,Ujaas eGo Li,53880.0,,,
+366,Polarity Smart Executive,38000.0,,,
+367,BattRE Electric IOT,80900.0,1.44,165.0,2.5 Hr
+368,BattRE Electric gps:ie,73900.0,1.15,65.0,2.5 Hr
+369,Techo Electra Emerge,73079.0,1.8,100.0,3-4 Hr
+370,Techo Electra Raptor,76178.0,1.8,100.0,3-4 Hr
+371,Raftaar Electrica,70900.0,,,
+372,Raftaar Cruzer R1,84500.0,,,
+373,Raftaar Bumblebee,88000.0,,,
+374,Super Eco T1,56772.0,,,4-6 Hr
+375,Rowwet Vegatron,125000.0,,,
+376,Rowwet Eleq,115999.99999999999,,,
+377,Rowwet Rame,114999.99999999999,,,
+378,Rowwet Zepop,78500.0,,,
+379,Birla Ambition,73817.0,1.56,,
+380,Birla A 1-4,227999.99999999997,1.56,,
+381,Birla DMG,305000.0,1.56,,
+382,Birla DMS,231000.0,1.56,,
+383,Birla V6,227999.99999999997,1.56,,
