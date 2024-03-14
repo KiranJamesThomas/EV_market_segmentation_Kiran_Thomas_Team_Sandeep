@@ -1,0 +1,385 @@
+,Bike Name,Price,Range,Kwh,Range_per_charge,Max_speed
+0,Ola S1 Pro,Rs. 1.29 Lakh,4 Kwh | 195 km/charge | 120 km/Hr,4 Kwh,195 km/charge,120 km/Hr
+1,TVS iQube,Rs. 1.17 Lakh,3.4 Kwh | 100 km/charge | 78 km/Hr,3.4 Kwh,100 km/charge,78 km/Hr
+2,Ather 450X,Rs. 1.25 - 1.28 Lakh,3.7 Kwh | 150 km/charge | 90 km/Hr,3.7 Kwh,150 km/charge,90 km/Hr
+3,Bajaj Chetak,Rs. 1.15 - 1.44 Lakh,3.2 Kwh | 127 km/charge | 73 km/Hr,3.2 Kwh,127 km/charge,73 km/Hr
+4,Ola S1 X,"Rs. 79,999 - 1.09 Lakh",2 Kwh | 95 km/charge | 85 km/Hr,2 Kwh,95 km/charge,85 km/Hr
+5,Hero Electric Optima,Rs. 1.06 - 1.29 Lakh,135 km/charge | 55 km/Hr | 6.5 Hr,135 km/charge,55 km/Hr,6.5 Hr
+6,Revolt RV400,Rs. 1.26 - 1.43 Lakh,3.24 Kwh | 80-150 km/charge | 85 km/Hr,3.24 Kwh,80-150 km/charge,85 km/Hr
+7,Vida V1,"Rs. 97,800 - 1.26 Lakh",3.94 Kwh | 110 km/charge | 80 km/Hr,3.94 Kwh,110 km/charge,80 km/Hr
+8,Kinetic e-Luna,"Rs. 69,990 - 74,990",1.7 Kwh | 90 km/charge | 50 km/Hr,1.7 Kwh,90 km/charge,50 km/Hr
+9,Ola S1 Air,Rs. 1.04 Lakh,3 Kwh | 151 km/charge | 90 km/Hr,3 Kwh,151 km/charge,90 km/Hr
+10,Simple One,Rs. 1.45 - 1.50 Lakh,5 Kwh | 212 km/charge | 105 km/Hr,5 Kwh,212 km/charge,105 km/Hr
+11,Yulu Wynn,"Rs. 55,555",25 km/Hr,25 km/Hr,,
+12,River Indie,Rs. 1.38 Lakh,120 km/charge | 90 km/Hr,120 km/charge,90 km/Hr,
+13,Ultraviolette F77,Rs. 3.80 - 5.50 Lakh,10.3 Kwh | 307 km/charge | 152 km/Hr,10.3 Kwh,307 km/charge,152 km/Hr
+14,Oben Rorr,Rs. 1.49 Lakh,4.4 Kwh | 187 km/charge | 100 km/Hr,4.4 Kwh,187 km/charge,100 km/Hr
+15,Ather 450S,Rs. 1.09 Lakh,2.9 Kwh | 115 km/charge | 90 km/Hr,2.9 Kwh,115 km/charge,90 km/Hr
+16,Tork Kratos R,Rs. 1.49 - 1.67 Lakh,180 km/charge | 70 km/Hr | 6-7 Hr,180 km/charge,70 km/Hr,6-7 Hr
+17,Bounce Infinity E1+,"Rs. 89,999 - 1.14 Lakh",1.9 Kwh | 85 km/charge | 65 km/Hr,1.9 Kwh,85 km/charge,65 km/Hr
+18,Komaki Ranger,Rs. 1.85 Lakh,200-250 km/charge | 6 Hr,200-250 km/charge,6 Hr,
+19,Ampere Magnus EX,Rs. 1.04 Lakh,2.29 Kwh | 121 km/charge | 50 km/Hr,2.29 Kwh,121 km/charge,50 km/Hr
+20,AMO Electric Jaunty-3W,"Rs. 78,819",75 km/charge | 25 km/Hr | 6 Hr,75 km/charge,25 km/Hr,6 Hr
+21,Kinetic Green Zing,"Rs. 71,990 - 84,990",100 km/charge | 45 km/Hr | 3-4 Hr,100 km/charge,45 km/Hr,3-4 Hr
+22,TVS X,Rs. 2.49 Lakh,4.44 Kwh | 140 km/charge | 105 km/Hr,4.44 Kwh,140 km/charge,105 km/Hr
+23,Okinawa PraisePro,"Rs. 99,645",81 km/charge | 56 km/Hr | 2-3 Hr,81 km/charge,56 km/Hr,2-3 Hr
+24,Komaki Flora,"Rs. 69,000",3 Kwh | 85-100 km/charge | 5 Hr,3 Kwh,85-100 km/charge,5 Hr
+25,Matter Aera,Rs. 1.73 - 1.83 Lakh,125 km/charge | 5 Hr,125 km/charge,5 Hr,
+26,Okaya Faast,Rs. 1.09 - 1.19 Lakh,4.4 Kwh | 140-160 km/charge | 65 km/Hr,4.4 Kwh,140-160 km/charge,65 km/Hr
+27,Motovolt Urbn e-Bike,"Rs. 43,649 - 53,999",0.72 Kwh | 120 km/charge | 25 km/Hr,0.72 Kwh,120 km/charge,25 km/Hr
+28,Ather 450 Apex,Rs. 1.88 Lakh,3.7 Kwh | 157 km/charge | 100 km/Hr,3.7 Kwh,157 km/charge,100 km/Hr
+29,Hero Electric Atria,"Rs. 77,690",85 km/charge | 25 km/Hr | 4-5 Hr,85 km/charge,25 km/Hr,4-5 Hr
+30,Hero Electric NYX,"Rs. 73,590 - 86,540",130 km/charge | 42 km/Hr | 4-5 Hr,130 km/charge,42 km/Hr,4-5 Hr
+31,Ozotec Bheem,"Rs. 65,990",65 km/Hr,65 km/Hr,,
+32,BattRE Electric Storie,Rs. 1.01 Lakh,3.1 Kwh | 132 km/charge | 5 Hr,3.1 Kwh,132 km/charge,5 Hr
+33,ABZO VS01,Rs. 1.92 Lakh,5.04 Kwh | 180 km/charge | 6.35 Hr,5.04 Kwh,180 km/charge,6.35 Hr
+34,BGauss C12i,Rs. 1.04 - 1.26 Lakh,85 km/charge | 60 km/Hr | 4.15-4.3 Hr,85 km/charge,60 km/Hr,4.15-4.3 Hr
+35,Komaki XGT X One,"Rs. 47,617 - 78,920",100-120 km/charge | 8 Hr,100-120 km/charge,8 Hr,
+36,Kinetic Green Zoom,"Rs. 75,100 - 82,500",100 km/charge | 40 km/Hr | 3-4 Hr,100 km/charge,40 km/Hr,3-4 Hr
+37,Kabira Mobility KM3000,Rs. 1.73 - 1.74 Lakh,4.1 Kwh | 178 km/charge | 120 km/Hr,4.1 Kwh,178 km/charge,120 km/Hr
+38,Zelio Gracy i,"Rs. 56,825 - 59,755",60-120 km/charge | 6-8 Hr,60-120 km/charge,6-8 Hr,
+39,Avon E Scoot,"Rs. 45,000",0.96 Kwh | 65 km/charge | 24 km/Hr,0.96 Kwh,65 km/charge,24 km/Hr
+40,Komaki XGT CAT 2.0,Rs. 1.01 - 1.14 Lakh,90-100 km/charge | 8 Hr,90-100 km/charge,8 Hr,
+41,ADMS EVA,Rs. 1.35 Lakh,2.88 Kwh | 90-150 km/charge,2.88 Kwh,90-150 km/charge,
+42,PURE EV Epluto 7G,"Rs. 89,999",90-120 km/charge | 60 km/Hr | 4 Hr,90-120 km/charge,60 km/Hr,4 Hr
+43,HCD India NPS Cargo,"Rs. 75,850 - 98,850",70 km/charge | 25 km/Hr | 3 Hr,70 km/charge,25 km/Hr,3 Hr
+44,BNC Motors Challenger,Rs. 1.17 Lakh,90 km/charge | 75 km/Hr | 3-4 Hr,90 km/charge,75 km/Hr,3-4 Hr
+45,Avon E Plus,"Rs. 25,000",0.58 Kwh | 50 km/charge | 24 km/Hr,0.58 Kwh,50 km/charge,24 km/Hr
+46,BattRE Electric LoEV,"Rs. 59,990 - 1.02 Lakh",60-150 km/charge | 2.5 Hr,60-150 km/charge,2.5 Hr,
+47,Revamp Moto RM Buddie 25,"Rs. 69,999",70 km/charge | 25 km/Hr | 3 Hr,70 km/charge,25 km/Hr,3 Hr
+48,Lectrix EV LXS G 2.0,"Rs. 87,999",65-80 km/charge | 55 km/Hr | 3 Hr,65-80 km/charge,55 km/Hr,3 Hr
+49,Power EV P-Sport,Rs. 1.57 - 1.89 Lakh,4.32 Kwh | 210 km/charge | 85 km/Hr,4.32 Kwh,210 km/charge,85 km/Hr
+50,Simple Dot One,Rs. 1.39 Lakh,151 km/charge | 105 km/Hr,151 km/charge,105 km/Hr,
+51,Gravton Quanta,"Rs. 99,000",70 km/Hr | 3 Hr,70 km/Hr,3 Hr,
+52,Ampere NXG,Rs. 1.35 - 1.55 Lakh,,,,
+53,BGauss D15,Rs. 1.34 - 1.45 Lakh,115 km/charge | 60 km/Hr | 5.5 Hr,115 km/charge,60 km/Hr,5.5 Hr
+54,Benling Aura,Rs. 1.21 Lakh,120 km/charge | 65 km/Hr | 4 Hr,120 km/charge,65 km/Hr,4 Hr
+55,Deltic Drixx,"Rs. 59,990 - 86,990",1.58 Kwh | 70-100 km/charge | 25 km/Hr,1.58 Kwh,70-100 km/charge,25 km/Hr
+56,Hero Electric Flash,"Rs. 59,640",85 km/charge | 25 km/Hr | 4-5 Hr,85 km/charge,25 km/Hr,4-5 Hr
+57,One Electric Motorcycles Kridn,Rs. 1.35 Lakh,110 km/charge | 95 km/Hr,110 km/charge,95 km/Hr,
+58,Hop Electric LEO,"Rs. 84,360 - 97,504",2 Kwh | 125 km/charge | 52 km/Hr,2 Kwh,125 km/charge,52 km/Hr
+59,Joy e-bike Mihos,Rs. 1.10 Lakh,130 km/charge | 70 km/Hr | 4 Hr,130 km/charge,70 km/Hr,4 Hr
+60,Sokudo Acute,Rs. 1.25 - 1.32 Lakh,3.1 Kwh | 150 km/charge | 65 km/Hr,3.1 Kwh,150 km/charge,65 km/Hr
+61,Warivo Motors Nexa,"Rs. 58,300 - 74,300",90-95 km/charge | 5-8 Hr,90-95 km/charge,5-8 Hr,
+62,Okinawa Dual 100,Rs. 1.19 Lakh,110-120 km/charge | 25 km/Hr | 5-6 Hr,110-120 km/charge,25 km/Hr,5-6 Hr
+63,eblu Feo,"Rs. 99,999",2.52 Kwh | 110 km/charge | 60 km/Hr,2.52 Kwh,110 km/charge,60 km/Hr
+64,Revolt RV400 BRZ,Rs. 1.47 Lakh,3.24 Kwh | 80-150 km/charge | 85 km/Hr,3.24 Kwh,80-150 km/charge,85 km/Hr
+65,AMO Electric Jaunty,"Rs. 59,966 - 90,064",80-90 km/charge | 25 km/Hr | 6 Hr,80-90 km/charge,25 km/Hr,6 Hr
+66,Komaki XGT KM,"Rs. 56,890 - 93,045",130-150 km/charge | 8 Hr,130-150 km/charge,8 Hr,
+67,ADMS Mantra,"Rs. 98,000",60-100 km/charge | 4-8 Hr,60-100 km/charge,4-8 Hr,
+68,Joy e-bike Wolf,"Rs. 63,000 - 91,350",1.38 Kwh | 60 km/charge | 25 km/Hr,1.38 Kwh,60 km/charge,25 km/Hr
+69,Ozotec Flio,Rs. 1.13 - 1.32 Lakh,6 Hr,6 Hr,,
+70,Atumobile AtumVader,Rs. 1.08 - 1.38 Lakh,2.9 Kwh | 100 km/charge | 65 km/Hr,2.9 Kwh,100 km/charge,65 km/Hr
+71,Jitendra JMT 1000HS,"Rs. 97,224",2 Kwh | 80 km/charge | 52 km/Hr,2 Kwh,80 km/charge,52 km/Hr
+72,Gemopai Miso,"Rs. 44,000",60-75 km/charge | 35 km/Hr | 3-4 Hr,60-75 km/charge,35 km/Hr,3-4 Hr
+73,PURE EV Epluto 7G Max,Rs. 1.14 Lakh,150-201 km/charge | 60 km/Hr,150-201 km/charge,60 km/Hr,
+74,Zelio Eeva,"Rs. 54,575 - 57,475",60-120 km/charge | 6-8 Hr,60-120 km/charge,6-8 Hr,
+75,Avon E Lite,"Rs. 28,000",50 km/charge | 24 km/Hr | 4-8 Hr,50 km/charge,24 km/Hr,4-8 Hr
+76,Atumobile Atum Version 1.0,"Rs. 61,500",100 km/charge | 25 km/Hr | 3-4 Hr,100 km/charge,25 km/Hr,3-4 Hr
+77,Odysse Electric Evoqis,Rs. 1.71 Lakh,80 km/Hr | 6 Hr,80 km/Hr,6 Hr,
+78,Joy e-bike Gen Next Nanu,"Rs. 58,000 - 88,250",60 km/charge | 25 km/Hr | 3-3.5 Hr,60 km/charge,25 km/Hr,3-3.5 Hr
+79,Kinetic Green Flex,Rs. 1.09 Lakh,120 km/charge | 72 km/Hr | 3 Hr,120 km/charge,72 km/Hr,3 Hr
+80,Orxa Mantis,Rs. 3.60 Lakh,221 km/charge | 135 km/Hr,221 km/charge,135 km/Hr,
+81,PURE EV ETrance Neo,"Rs. 83,999",2.5 Kwh | 90-120 km/charge | 60 km/Hr,2.5 Kwh,90-120 km/charge,60 km/Hr
+82,NIJ Automotive Accelero R14,"Rs. 49,731 - 73,326",1.54 Kwh | 180 km/charge | 3-4 Hr,1.54 Kwh,180 km/charge,3-4 Hr
+83,Okinawa Okhi90,Rs. 1.86 Lakh,160 km/charge | 90 km/Hr | 5-6 Hr,160 km/charge,90 km/Hr,5-6 Hr
+84,Ujaas eGo LA,"Rs. 34,880 - 39,880",1.56 Kwh | 75 km/charge | 6-7 Hr,1.56 Kwh,75 km/charge,6-7 Hr
+85,Benling Falcon,"Rs. 69,540",1.8 Kwh | 70-75 km/charge | 25 km/Hr,1.8 Kwh,70-75 km/charge,25 km/Hr
+86,Okinawa iPraise+,Rs. 1.45 Lakh,139 km/charge | 58 km/Hr | 4-5 Hr,139 km/charge,58 km/Hr,4-5 Hr
+87,ADMS GTR,"Rs. 79,800",1.44 Kwh | 60-100 km/charge | 4-8 Hr,1.44 Kwh,60-100 km/charge,4-8 Hr
+88,Evtric Ride,"Rs. 79,335 - 98,100",80 km/charge | 25 km/Hr,80 km/charge,25 km/Hr,
+89,Detel EV Easy Plus,"Rs. 46,999",60 km/charge | 25 km/Hr,60 km/charge,25 km/Hr,
+90,Okaya Freedum,"Rs. 74,899",1.44 Kwh | 70-75 km/charge | 25 km/Hr,1.44 Kwh,70-75 km/charge,25 km/Hr
+91,Tunwal Storm ZX Advance 2,Rs. 1.34 Lakh,,,,
+92,Kabira Mobility KM4000,Rs. 1.65 - 1.76 Lakh,4.1 Kwh | 178 km/charge | 120 km/Hr,4.1 Kwh,178 km/charge,120 km/Hr
+93,Tunwal Sport 63 Mini,"Rs. 49,990",55-70 km/charge,55-70 km/charge,,
+94,Odysse Electric Hawk,"Rs. 99,400 - 1.17 Lakh",2.96 Kwh | 170 km/charge | 45 km/Hr,2.96 Kwh,170 km/charge,45 km/Hr
+95,Hero Electric Photon,Rs. 1.10 Lakh,60 km/charge | 45 km/Hr | 8-10 Hr,60 km/charge,45 km/Hr,8-10 Hr
+96,Srivaru Motors Prana,Rs. 2.25 - 3.00 Lakh,126 km/charge | 123 km/Hr | 4.5 Hr,126 km/charge,123 km/Hr,4.5 Hr
+97,ADMS Sathi,"Rs. 99,000",1.56 Kwh | 80-100 km/charge,1.56 Kwh,80-100 km/charge,
+98,White Carbon Motors GT5,Rs. 1.25 Lakh,100-150 km/charge | 50 km/Hr | 3-4 Hr,100-150 km/charge,50 km/Hr,3-4 Hr
+99,Kyte Energy Magnum Pro,"Rs. 80,999",160 km/charge | 60 km/Hr,160 km/charge,60 km/Hr,
+100,Okinawa Lite,"Rs. 74,999",60 km/charge | 25 km/Hr | 4-5 Hr,60 km/charge,25 km/Hr,4-5 Hr
+101,e-Sprinto,"Rs. 76,000 - 82,000",1.74 Kwh | 100 km/charge | 25 km/Hr,1.74 Kwh,100 km/charge,25 km/Hr
+102,Tunwal Roma S,"Rs. 95,000",75-90 km/charge,75-90 km/charge,,
+103,Ampere Reo Li Plus,"Rs. 69,900",1.34 Kwh | 70 km/charge | 25 km/Hr,1.34 Kwh,70 km/charge,25 km/Hr
+104,PURE EV EcoDryft,Rs. 1.19 - 1.29 Lakh,80-130 km/charge | 75 km/Hr | 3 Hr,80-130 km/charge,75 km/Hr,3 Hr
+105,Kinetic Green Zulu,"Rs. 94,990",104 km/charge,104 km/charge,,
+106,Fidato Evtech Easy Go,"Rs. 86,315",60-80 km/charge | 4-5 Hr,60-80 km/charge,4-5 Hr,
+107,Hero Electric Eddy,"Rs. 72,000",1.54 Kwh | 85 km/charge | 25 km/Hr,1.54 Kwh,85 km/charge,25 km/Hr
+108,PURE EV eTryst 350,Rs. 1.49 Lakh,3.5 Kwh | 90-140 km/charge | 85 km/Hr,3.5 Kwh,90-140 km/charge,85 km/Hr
+109,Fidato Evtech Loder,"Rs. 83,490",60-70 km/charge | 3-4 Hr,60-70 km/charge,3-4 Hr,
+110,SVITCH CSR 762,Rs. 1.89 Lakh,3.6 Kwh | 160 km/charge | 110 km/Hr,3.6 Kwh,160 km/charge,110 km/Hr
+111,Komaki SE,"Rs. 96,968 - 1.38 Lakh",75-90 km/charge | 60 km/Hr | 5 Hr,75-90 km/charge,60 km/Hr,5 Hr
+112,Komaki XGT X5,Rs. 1.00 Lakh,90-100 km/charge | 5 Hr,90-100 km/charge,5 Hr,
+113,Fujiyama Spectra,"Rs. 51,528 - 77,119",1.3 Kwh,1.3 Kwh,,
+114,Shema Eagle,"Rs. 64,999 - 1.16 Lakh",65 km/charge | 25 km/Hr | 4-5 Hr,65 km/charge,25 km/Hr,4-5 Hr
+115,Ujaas eSpa LA,"Rs. 48,174",1.56 Kwh | 60 km/charge | 6-7 Hr,1.56 Kwh,60 km/charge,6-7 Hr
+116,Zelio Legender,"Rs. 59,048 - 60,476",,,,
+117,Quantum Milan,"Rs. 86,625",80-95 km/charge | 50 km/Hr,80-95 km/charge,50 km/Hr,
+118,Joy e-bike Gen Next Nanu Plus,"Rs. 83,000",2.18 Kwh | 100 km/charge | 55 km/Hr,2.18 Kwh,100 km/charge,55 km/Hr
+119,Hop Oxo,Rs. 1.33 - 1.60 Lakh,60-120 km/charge | 82 km/Hr | 4.45 Hr,60-120 km/charge,82 km/Hr,4.45 Hr
+120,Odysse Electric V2,Rs. 1.00 Lakh,1.3 Kwh | 75 km/charge | 25 km/Hr,1.3 Kwh,75 km/charge,25 km/Hr
+121,Okaya Faast F2B,"Rs. 93,950",80-85 km/charge | 75 km/Hr | 3-4 Hr,80-85 km/charge,75 km/Hr,3-4 Hr
+122,Avera Retrosa,"Rs. 88,900 - 1.28 Lakh",55 km/Hr | 2-3 Hr,55 km/Hr,2-3 Hr,
+123,Tunwal Storm ZX,"Rs. 90,000",75-120 km/charge,75-120 km/charge,,
+124,Ampere Primus,Rs. 1.46 Lakh,3 Kwh | 107 km/charge | 77 km/Hr,3 Kwh,107 km/charge,77 km/Hr
+125,Hayasa Nirbhar,"Rs. 65,550",90 km/charge | 25 km/Hr,90 km/charge,25 km/Hr,
+126,Kick EV Smassh,Rs. 1.50 - 1.70 Lakh,130 km/charge | 75 km/Hr | 3.5 Hr,130 km/charge,75 km/Hr,3.5 Hr
+127,Joy e-bike Beast,Rs. 2.42 Lakh,5.18 Kwh | 110 km/charge | 90 km/Hr,5.18 Kwh,110 km/charge,90 km/Hr
+128,Zelio Gracy,"Rs. 56,675 - 59,755",60-120 km/charge | 6-8 Hr,60-120 km/charge,6-8 Hr,
+129,Birla JF,Rs. 1.62 - 2.31 Lakh,1.56 Kwh,1.56 Kwh,,
+130,White Carbon Motors O3,"Rs. 55,900",0.96 Kwh | 60 km/charge | 25 km/Hr,0.96 Kwh,60 km/charge,25 km/Hr
+131,Deltic Legion,"Rs. 64,490 - 90,990",70-100 km/charge | 25 km/Hr | 5-6 Hr,70-100 km/charge,25 km/Hr,5-6 Hr
+132,Okinawa R30,"Rs. 61,998",60 km/charge | 25 km/Hr | 4-5 Hr,60 km/charge,25 km/Hr,4-5 Hr
+133,NIJ Automotive Accelero X-Pro,"Rs. 58,100 - 1.09 Lakh",1.68 Kwh | 54 km/charge | 3-4 Hr,1.68 Kwh,54 km/charge,3-4 Hr
+134,Jitendra JMT 1000 3K,Rs. 1.27 Lakh,3.12 Kwh | 126 km/charge | 52 km/Hr,3.12 Kwh,126 km/charge,52 km/Hr
+135,Komaki MX3,Rs. 1.14 Lakh,80-90 km/charge | 5 Hr,80-90 km/charge,5 Hr,
+136,Quantum BZiness,"Rs. 98,175 - 1.19 Lakh",80-90 km/charge | 50 km/Hr,80-90 km/charge,50 km/Hr,
+137,Ujaas eZy,"Rs. 31,880",1.25 Kwh | 60 km/charge | 6-7 Hr,1.25 Kwh,60 km/charge,6-7 Hr
+138,Ampere Zeal EX,"Rs. 96,690",2.2 Kwh | 120 km/charge | 55 km/Hr,2.2 Kwh,120 km/charge,55 km/Hr
+139,Komaki XGT X4,Rs. 1.01 - 1.24 Lakh,180-220 km/charge | 8 Hr,180-220 km/charge,8 Hr,
+140,PURE EV ETrance+,"Rs. 93,999",1.8 Kwh | 85 km/charge | 25 km/Hr,1.8 Kwh,85 km/charge,25 km/Hr
+141,iGowise BeiGo X4,Rs. 1.10 Lakh,150 km/charge,150 km/charge,,
+142,Okinawa Ridge,"Rs. 84,606 - 1.15 Lakh",45 km/Hr | 5-6 Hr,45 km/Hr,5-6 Hr,
+143,Joy e-bike Glob,"Rs. 58,000",13.98 Kwh | 60 km/charge | 25 km/Hr,13.98 Kwh,60 km/charge,25 km/Hr
+144,Lectrix EV SX25,"Rs. 54,499",60 km/charge | 25 km/Hr | 4 Hr,60 km/charge,25 km/Hr,4 Hr
+145,Raftaar Galaxy,"Rs. 51,900",100 km/charge | 4-5 Hr,100 km/charge,4-5 Hr,
+146,Zelio Eeva ZX,"Rs. 59,000 - 62,000",60-120 km/charge | 6-8 Hr,60-120 km/charge,6-8 Hr,
+147,Aftek Elmo,Rs. 1.40 Lakh,110 km/charge,110 km/charge,,
+148,Okaya Faast F2F,"Rs. 83,999",2.16 Kwh | 70-80 km/charge | 50 km/Hr,2.16 Kwh,70-80 km/charge,50 km/Hr
+149,Joy e-bike Monster,Rs. 1.10 Lakh,1.66 Kwh | 75 km/charge | 25 km/Hr,1.66 Kwh,75 km/charge,25 km/Hr
+150,GT One,"Rs. 62,850 - 85,945",60-65 km/charge | 25 km/Hr | 7-8 Hr,60-65 km/charge,25 km/Hr,7-8 Hr
+151,Hero Lectro H5,"Rs. 25,999",1.56 Kwh | 30 km/charge | 25 km/Hr,1.56 Kwh,30 km/charge,25 km/Hr
+152,Viertric Max,"Rs. 68,000",60-70 km/charge | 57 km/Hr | 4-5 Hr,60-70 km/charge,57 km/Hr,4-5 Hr
+153,Joy e-bike Wolf Plus,"Rs. 87,000",2.12 Kwh | 100 km/charge | 55 km/Hr,2.12 Kwh,100 km/charge,55 km/Hr
+154,Gemopai Ryder,"Rs. 70,850 - 84,302",90-120 km/charge | 25 km/Hr,90-120 km/charge,25 km/Hr,
+155,GT One Plus,"Rs. 68,982 - 86,970",1.56 Kwh | 60-65 km/charge | 25 km/Hr,1.56 Kwh,60-65 km/charge,25 km/Hr
+156,Rowwet Trono,Rs. 1.80 Lakh,100 km/Hr | 3 Hr,100 km/Hr,3 Hr,
+157,Komaki Venice,Rs. 1.03 - 1.49 Lakh,90-120 km/charge | 5 Hr,90-120 km/charge,5 Hr,
+158,Greta Harper ZX Series-I,"Rs. 41,999",80 km/charge | 5 Hr,80 km/charge,5 Hr,
+159,RunR HS Electric,Rs. 1.14 Lakh,103 km/charge | 75 km/Hr,103 km/charge,75 km/Hr,
+160,Gemopai Astrid Lite,"Rs. 92,322 - 1.11 Lakh",90-200 km/charge | 65 km/Hr,90-200 km/charge,65 km/Hr,
+161,EMotorad Nighthawk,Rs. 5.00 Lakh,,,,
+162,E-Went Rabbitor,"Rs. 60,100 - 83,000",1.8 Kwh | 60-70 km/charge | 28 km/Hr,1.8 Kwh,60-70 km/charge,28 km/Hr
+163,Tunwal Mini Lithino,"Rs. 54,990",55-70 km/charge,55-70 km/charge,,
+164,Hop Electric LYF,"Rs. 67,500 - 74,500",1.12 Kwh | 125 km/charge | 25 km/Hr,1.12 Kwh,125 km/charge,25 km/Hr
+165,Tunwal Sports 63 Alpha 48V,"Rs. 54,943",55-70 km/charge,55-70 km/charge,,
+166,Quantum Elektron,"Rs. 91,939",80-85 km/charge | 50 km/Hr,80-85 km/charge,50 km/Hr,
+167,Aeroride Bravo,Rs. 1.59 Lakh,90-110 km/charge | 80 km/Hr,90-110 km/charge,80 km/Hr,
+168,Hero Lectro C8,"Rs. 36,999",30 km/charge | 25 km/Hr | 4 Hr,30 km/charge,25 km/Hr,4 Hr
+169,Lohia Oma Star,"Rs. 41,444",60 km/charge | 25 km/Hr | 6-8 Hr,60 km/charge,25 km/Hr,6-8 Hr
+170,Komaki DT 3000,Rs. 1.21 Lakh,140-160 km/charge | 5 Hr,140-160 km/charge,5 Hr,
+171,Joy e-bike Hurricane,Rs. 2.33 Lakh,4.75 Kwh | 80 km/charge | 90 km/Hr,4.75 Kwh,80 km/charge,90 km/Hr
+172,Benling Believe,Rs. 1.25 Lakh,3.2 Kwh | 75 km/Hr | 4 Hr,3.2 Kwh,75 km/Hr,4 Hr
+173,Rowwet Rame XL,Rs. 1.91 Lakh,100 km/charge | 60 km/Hr | 3-4 Hr,100 km/charge,60 km/Hr,3-4 Hr
+174,Techo Electra Saathi,"Rs. 62,738",1.06 Kwh | 80 km/charge | 2.5-4 Hr,1.06 Kwh,80 km/charge,2.5-4 Hr
+175,Benling Kriti,"Rs. 64,151",1.34 Kwh | 60 km/charge | 25 km/Hr,1.34 Kwh,60 km/charge,25 km/Hr
+176,Kabira Hermes 75,"Rs. 97,754",120 km/charge | 4 Hr,120 km/charge,4 Hr,
+177,Kabira Mobility Intercity Neo,"Rs. 57,000",2.1 Kwh | 110 km/charge | 24 km/Hr,2.1 Kwh,110 km/charge,24 km/Hr
+178,Kabira Mobility Kollegio Plus,"Rs. 48,000",2.1 Kwh | 110 km/charge | 24 km/Hr,2.1 Kwh,110 km/charge,24 km/Hr
+179,Kabira Mobility Aetos 100,"Rs. 55,000",2.1 Kwh | 110 km/charge | 24 km/Hr,2.1 Kwh,110 km/charge,24 km/Hr
+180,Kabira Mobility Kollegio Neo,"Rs. 47,000",1.15 Kwh | 100 km/charge | 24 km/Hr,1.15 Kwh,100 km/charge,24 km/Hr
+181,Joy e-bike Thunderbolt,Rs. 2.33 Lakh,5.18 Kwh | 110 km/charge | 90 km/Hr,5.18 Kwh,110 km/charge,90 km/Hr
+182,PURE EV Epluto,"Rs. 77,999",80 km/charge | 25 km/Hr | 4 Hr,80 km/charge,25 km/Hr,4 Hr
+183,EeVe Xeniaa,"Rs. 69,900 - 86,999",1.2 Kwh | 70-80 km/charge | 25 km/Hr,1.2 Kwh,70-80 km/charge,25 km/Hr
+184,PURE EV Epluto 7G Pro,"Rs. 99,999",,,,
+185,Toutche Heileo M200,"Rs. 58,990 - 62,990",75 km/charge | 25 km/Hr,75 km/charge,25 km/Hr,
+186,Toutche Heileo H200,"Rs. 58,990 - 62,990",75 km/charge | 25 km/Hr,75 km/charge,25 km/Hr,
+187,Toutche Heileo H100,"Rs. 42,499 - 46,499",75 km/charge | 25 km/Hr,75 km/charge,25 km/Hr,
+188,Toutche Heileo M100,"Rs. 42,499 - 46,499",75 km/charge | 25 km/Hr,75 km/charge,25 km/Hr,
+189,Odysse Electric E2Go,"Rs. 71,100 - 94,100",1.68 Kwh | 60 km/charge | 25 km/Hr,1.68 Kwh,60 km/charge,25 km/Hr
+190,Odysse Electric VADER,Rs. 1.61 Lakh,3.7 Kwh | 85 km/Hr | 4 Hr,3.7 Kwh,85 km/Hr,4 Hr
+191,EMotorad T-Rex,"Rs. 39,999 - 42,999",45 km/charge | 25 km/Hr | 4-5 Hr,45 km/charge,25 km/Hr,4-5 Hr
+192,EMotorad EMX,"Rs. 58,999",45 km/charge | 45 km/Hr | 4 Hr,45 km/charge,45 km/Hr,4 Hr
+193,EMotorad X1,"Rs. 24,999",40 km/charge | 25 km/Hr | 4-5 Hr,40 km/charge,25 km/Hr,4-5 Hr
+194,EMotorad X3,"Rs. 32,999",25 km/Hr | 4-5 Hr,25 km/Hr,4-5 Hr,
+195,EMotorad X2,"Rs. 27,999",25 km/Hr | 4-5 Hr,25 km/Hr,4-5 Hr,
+196,SVITCH XE,"Rs. 74,999 - 88,999",60 km/charge | 25 km/Hr,60 km/charge,25 km/Hr,
+197,SVITCH XE+,Rs. 1.09 Lakh,120 km/charge | 25 km/Hr,120 km/charge,25 km/Hr,
+198,SVITCH MXE,"Rs. 59,999",35-38 km/charge | 25 km/Hr,35-38 km/charge,25 km/Hr,
+199,Evtric Axis,"Rs. 75,482",75 km/charge | 25 km/Hr,75 km/charge,25 km/Hr,
+200,Poise NX120,Rs. 1.16 - 1.29 Lakh,110-140 km/charge | 55 km/Hr | 4-5 Hr,110-140 km/charge,55 km/Hr,4-5 Hr
+201,Poise Grace,"Rs. 97,174 - 1.07 Lakh",110-140 km/charge | 50 km/Hr,110-140 km/charge,50 km/Hr,
+202,Deltic Trento,Rs. 1.28 Lakh,75 km/charge | 45 km/Hr | 5-6 Hr,75 km/charge,45 km/Hr,5-6 Hr
+203,Deltic ZGS,"Rs. 97,490",70 km/charge | 45 km/Hr | 5-6 Hr,70 km/charge,45 km/Hr,5-6 Hr
+204,DAO Zor 405,"Rs. 89,184",1.2 Kwh | 70 km/charge | 45 km/Hr,1.2 Kwh,70 km/charge,45 km/Hr
+205,DAO Vidyut 108,"Rs. 86,449",1.2 Kwh | 80 km/charge | 25 km/Hr,1.2 Kwh,80 km/charge,25 km/Hr
+206,Okaya ClassIQ,"Rs. 74,499",1.44 Kwh | 60-70 km/charge | 25 km/Hr,1.44 Kwh,60-70 km/charge,25 km/Hr
+207,Okaya Faast F2T,"Rs. 92,900",80-85 km/charge | 75 km/Hr | 3-4 Hr,80-85 km/charge,75 km/Hr,3-4 Hr
+208,Okaya Motofaast,Rs. 1.28 Lakh,3.5 Kwh | 110-130 km/charge | 70 km/Hr,3.5 Kwh,110-130 km/charge,70 km/Hr
+209,DAO 703,Rs. 1.26 Lakh,1.8 Kwh | 100 km/charge | 70 km/Hr,1.8 Kwh,100 km/charge,70 km/Hr
+210,Shema Tuff,"Rs. 70,500 - 1.40 Lakh",1.81 Kwh | 90 km/charge | 25 km/Hr,1.81 Kwh,90 km/charge,25 km/Hr
+211,Shema Zoom,"Rs. 65,055",75 km/charge | 25 km/Hr | 4-5 Hr,75 km/charge,25 km/Hr,4-5 Hr
+212,Shema Bold,"Rs. 85,314",90 km/charge | 25 km/Hr | 5 Hr,90 km/charge,25 km/Hr,5 Hr
+213,Shema Hobby,"Rs. 90,140",90 km/charge | 25 km/Hr | 3-4 Hr,90 km/charge,25 km/Hr,3-4 Hr
+214,Motovolt Ice,"Rs. 19,989 - 31,700",30-45 km/charge | 25 km/Hr,30-45 km/charge,25 km/Hr,
+215,Motovolt Hum,"Rs. 32,849 - 45,434",30-105 km/charge | 25 km/Hr,30-105 km/charge,25 km/Hr,
+216,Hero Lectro F3i,"Rs. 42,999",25 km/charge | 25 km/Hr,25 km/charge,25 km/Hr,
+217,Hero Lectro WINN-X,"Rs. 49,999",70-75 km/charge | 25 km/Hr | 7 Hr,70-75 km/charge,25 km/Hr,7 Hr
+218,Hero Lectro C1,"Rs. 32,999",30 km/charge | 25 km/Hr | 3-4 Hr,30 km/charge,25 km/Hr,3-4 Hr
+219,Hero Lectro WINN,"Rs. 49,999",55-60 km/charge | 25 km/Hr | 7 Hr,55-60 km/charge,25 km/Hr,7 Hr
+220,Hero Lectro C5X,"Rs. 38,999",30 km/charge | 25 km/Hr | 3-4 Hr,30 km/charge,25 km/Hr,3-4 Hr
+221,Hero Lectro F1,"Rs. 38,999",250 km/charge | 25 km/Hr | 3-4 Hr,250 km/charge,25 km/Hr,3-4 Hr
+222,Hero Lectro H3,"Rs. 24,499",1.56 Kwh | 30 km/charge | 25 km/Hr,1.56 Kwh,30 km/charge,25 km/Hr
+223,Ampere Magnus LT,"Rs. 93,900",1.8 Kwh | 81 km/charge | 45 km/Hr,1.8 Kwh,81 km/charge,45 km/Hr
+224,Nexzu Rompus Plus,"Rs. 29,750",32 km/charge | 25 km/Hr | 2.5-3 Hr,32 km/charge,25 km/Hr,2.5-3 Hr
+225,Nexzu Roadlark,"Rs. 40,600 - 43,799",80-85 km/charge | 25 km/Hr | 7-8 Hr,80-85 km/charge,25 km/Hr,7-8 Hr
+226,Nexzu Bazinga,"Rs. 41,500 - 46,950",85 km/charge | 25 km/Hr | 3-4 Hr,85 km/charge,25 km/Hr,3-4 Hr
+227,Hero Lectro C5,"Rs. 30,999",30 km/charge | 25 km/Hr | 4 Hr,30 km/charge,25 km/Hr,4 Hr
+228,Hero Lectro C6,"Rs. 34,999",25 km/charge | 25 km/Hr | 4 Hr,25 km/charge,25 km/Hr,4 Hr
+229,Hero Lectro F6i,"Rs. 57,999",60 km/charge | 25 km/Hr | 5-6 Hr,60 km/charge,25 km/Hr,5-6 Hr
+230,Hero Lectro C3,"Rs. 28,999",30 km/charge | 25 km/Hr | 4 Hr,30 km/charge,25 km/Hr,4 Hr
+231,Hero Lectro C7,"Rs. 34,999",25 km/charge | 25 km/Hr,25 km/charge,25 km/Hr,
+232,Hero Lectro C7+,"Rs. 34,999",25 km/charge | 25 km/Hr,25 km/charge,25 km/Hr,
+233,Hero Lectro C9,"Rs. 43,999",25 km/charge | 25 km/Hr,25 km/charge,25 km/Hr,
+234,Hero Lectro C8i,"Rs. 39,999",25 km/charge | 25 km/Hr,25 km/charge,25 km/Hr,
+235,Hero Lectro F2I,"Rs. 39,999",25 km/charge | 25 km/Hr,25 km/charge,25 km/Hr,
+236,BattRE Electric ONE,"Rs. 73,900 - 1.07 Lakh",3.1 Kwh | 60-150 km/charge | 2.5 Hr,3.1 Kwh,60-150 km/charge,2.5 Hr
+237,Motovolt Kivo,"Rs. 31,574 - 44,159",30-105 km/charge | 25 km/Hr,30-105 km/charge,25 km/Hr,
+238,EVeium CZAR,Rs. 2.07 Lakh,150 km/charge | 85 km/Hr | 4 Hr,150 km/charge,85 km/Hr,4 Hr
+239,Motovolt Kivo Easy,"Rs. 24,500 - 44,159",30-105 km/charge,30-105 km/charge,,
+240,EVeium COMET,Rs. 1.84 Lakh,150 km/charge | 85 km/Hr | 4 Hr,150 km/charge,85 km/Hr,4 Hr
+241,EVeium COSMO,Rs. 1.39 Lakh,80 km/charge | 65 km/Hr | 4 Hr,80 km/charge,65 km/Hr,4 Hr
+242,Motovolt Kivo 24,"Rs. 31,574 - 44,159",70 km/charge | 25 km/Hr,70 km/charge,25 km/Hr,
+243,Fujiyama Spectra Pro,"Rs. 54,384 - 79,975",1.8 Kwh | 25 km/Hr,1.8 Kwh,25 km/Hr,
+244,Fujiyama Ozone,"Rs. 99,918",70 km/Hr | 5 Hr,70 km/Hr,5 Hr,
+245,Avon E Mate,"Rs. 45,000",0.96 Kwh | 65 km/charge | 18 km/Hr,0.96 Kwh,65 km/charge,18 km/Hr
+246,Avon E Star,"Rs. 60,000",1.58 Kwh | 65 km/charge | 50 km/Hr,1.58 Kwh,65 km/charge,50 km/Hr
+247,Lohia Oma Star Li,"Rs. 51,750",60 km/charge | 25 km/Hr | 3 Hr,60 km/charge,25 km/Hr,3 Hr
+248,Super Eco SE 2,"Rs. 62,652",70-80 km/charge | 55 km/Hr | 3-4 Hr,70-80 km/charge,55 km/Hr,3-4 Hr
+249,Super Eco S 2,Rs. 1.05 Lakh,70-85 km/charge | 55 km/Hr | 4-6 Hr,70-85 km/charge,55 km/Hr,4-6 Hr
+250,YUKIE Yuvee,"Rs. 44,385",55-60 km/charge | 25 km/Hr | 8-10 Hr,55-60 km/charge,25 km/Hr,8-10 Hr
+251,YUKIE Shiga,"Rs. 51,115",55-60 km/charge | 25 km/Hr | 8-10 Hr,55-60 km/charge,25 km/Hr,8-10 Hr
+252,Evolet Derby,"Rs. 74,999",80-100 km/charge | 25 km/Hr | 3-4 Hr,80-100 km/charge,25 km/Hr,3-4 Hr
+253,Evolet Pony,"Rs. 57,999",80 km/charge | 25 km/Hr | 3-4 Hr,80 km/charge,25 km/Hr,3-4 Hr
+254,Evolet Polo,"Rs. 69,999",80-100 km/charge | 25 km/Hr | 3-4 Hr,80-100 km/charge,25 km/Hr,3-4 Hr
+255,Evolet Dhanno,"Rs. 76,999",80-100 km/charge | 25 km/Hr | 3-4 Hr,80-100 km/charge,25 km/Hr,3-4 Hr
+256,Crayon Zeez,"Rs. 48,000 - 58,000",25 km/Hr,25 km/Hr,,
+257,Merico Fashia,"Rs. 61,311",6-7 Hr,6-7 Hr,,
+258,Merico Eagle-100(6.0),"Rs. 49,781",6-7 Hr,6-7 Hr,,
+259,Merico Eagle-100(4.8),"Rs. 42,850",6-7 Hr,6-7 Hr,,
+260,M2GO X1,Rs. 1.10 Lakh,1.56 Kwh | 120 km/charge | 50 km/Hr,1.56 Kwh,120 km/charge,50 km/Hr
+261,Crayon Envy,"Rs. 53,000 - 65,000",25 km/Hr,25 km/Hr,,
+262,Merico Speedstar,"Rs. 53,692",6-7 Hr,6-7 Hr,,
+263,Merico Evanka,"Rs. 62,505",6-7 Hr,6-7 Hr,,
+264,AMO Electric Inspirer,"Rs. 53,951 - 86,626",75 km/charge | 25 km/Hr | 6 Hr,75 km/charge,25 km/Hr,6 Hr
+265,AMO Electric Jaunty Plus,"Rs. 87,060",120 km/charge | 50 km/Hr | 4 Hr,120 km/charge,50 km/Hr,4 Hr
+266,AMO Electric Jaunty Pro,"Rs. 74,078",100 km/charge | 25 km/Hr | 6 Hr,100 km/charge,25 km/Hr,6 Hr
+267,Essel Energy GET 1,"Rs. 37,500 - 41,500",40-50 km/charge | 25 km/Hr | 4-5 Hr,40-50 km/charge,25 km/Hr,4-5 Hr
+268,Essel Energy GET 7,"Rs. 43,500 - 48,500",70-80 km/charge | 25 km/Hr | 4-5 Hr,70-80 km/charge,25 km/Hr,4-5 Hr
+269,Tunwal Sport 63 Mid,"Rs. 71,990",70-110 km/charge,70-110 km/charge,,
+270,Tunwal Elektrika 60,"Rs. 65,040",70-120 km/charge,70-120 km/charge,,
+271,EeVe Wind,"Rs. 59,999",1.62 Kwh | 60-70 km/charge | 25 km/Hr,1.62 Kwh,60-70 km/charge,25 km/Hr
+272,EeVe Atreo,"Rs. 68,999",1.94 Kwh | 75-85 km/charge | 25 km/Hr,1.94 Kwh,75-85 km/charge,25 km/Hr
+273,EeVe Ahava,"Rs. 62,499",1.62 Kwh | 60-70 km/charge | 25 km/Hr,1.62 Kwh,60-70 km/charge,25 km/Hr
+274,EeVe Soul,Rs. 1.20 Lakh,120 km/charge | 55 km/Hr | 4-5 Hr,120 km/charge,55 km/Hr,4-5 Hr
+275,Gemopai Ryder SuperMax,"Rs. 79,999",100 km/charge | 60 km/Hr | 5-6 Hr,100 km/charge,60 km/Hr,5-6 Hr
+276,M2GO Civitas,Rs. 1.26 Lakh,2.09 Kwh | 120 km/charge | 85 km/Hr,2.09 Kwh,120 km/charge,85 km/Hr
+277,Amo Electric Feisty EV,"Rs. 68,000",75 km/charge | 25 km/Hr | 6 Hr,75 km/charge,25 km/Hr,6 Hr
+278,Kabira Mobility Kollegio,"Rs. 45,990",100 km/charge | 24 km/Hr | 4 Hr,100 km/charge,24 km/Hr,4 Hr
+279,Kabira Mobility Intercity Aeolus,"Rs. 68,990",110 km/charge | 24 km/Hr | 4-6 Hr,110 km/charge,24 km/Hr,4-6 Hr
+280,Tunwal Lithino 2.0,"Rs. 71,990",70-85 km/charge,70-85 km/charge,,
+281,Tunwal Lithino Li,"Rs. 74,990",75-120 km/charge,75-120 km/charge,,
+282,Tunwal Storm ZX Advance 1,Rs. 1.14 Lakh,,,,
+283,Tunwal TEM G33,"Rs. 92,000",,,,
+284,Gowel ZX,"Rs. 44,456 - 57,449",1.15 Kwh | 70 km/charge | 25 km/Hr,1.15 Kwh,70 km/charge,25 km/Hr
+285,Tunwal T 133,Rs. 1.00 Lakh,,,,
+286,Tunwal TZ 3.3,Rs. 1.15 Lakh,,,,
+287,Yo Drift,"Rs. 51,000",1.2 Kwh | 60 km/charge | 25 km/Hr,1.2 Kwh,60 km/charge,25 km/Hr
+288,Yo Edge,"Rs. 49,000",1.2 Kwh | 60 km/charge | 25 km/Hr,1.2 Kwh,60 km/charge,25 km/Hr
+289,Stella Moto SA 1000,"Rs. 68,000 - 75,000",60-70 km/charge | 6-7 Hr,60-70 km/charge,6-7 Hr,
+290,Stella Moto SA 2000,"Rs. 86,000 - 94,000",60-70 km/charge | 6-7 Hr,60-70 km/charge,6-7 Hr,
+291,NDS ECO MOTORS Lio Plus,Rs. 1.23 Lakh,1.51 Kwh | 165 km/charge | 55 km/Hr,1.51 Kwh,165 km/charge,55 km/Hr
+292,NDS ECO MOTORS Lio,"Rs. 88,166",1.51 Kwh | 83 km/charge | 55 km/Hr,1.51 Kwh,83 km/charge,55 km/Hr
+293,Earth Energy EV Evolve Z,Rs. 1.30 Lakh,100 km/charge | 95 km/Hr | 2.5 Hr,100 km/charge,95 km/Hr,2.5 Hr
+294,Earth Energy EV Evolve R,Rs. 1.42 Lakh,100 km/charge | 110 km/Hr | 2.5 Hr,100 km/charge,110 km/Hr,2.5 Hr
+295,Earth Energy EV Glyde Plus,"Rs. 95,000",100 km/charge | 90 km/Hr,100 km/charge,90 km/Hr,
+296,Detel EV Veeru,"Rs. 70,000",100 km/charge | 25 km/Hr,100 km/charge,25 km/Hr,
+297,Stella Moto BUZZ,"Rs. 95,000",90 km/charge | 55 km/Hr,90 km/charge,55 km/Hr,
+298,EMotorad Doodle,"Rs. 49,999",50 km/charge | 25 km/Hr | 5-6 Hr,50 km/charge,25 km/Hr,5-6 Hr
+299,Velev Motors VIO,"Rs. 52,000",0.96 Kwh | 60-70 km/charge | 25 km/Hr,0.96 Kwh,60-70 km/charge,25 km/Hr
+300,Velev Motors VEV 01,"Rs. 32,500",1.15 Kwh | 75-80 km/charge | 25 km/Hr,1.15 Kwh,75-80 km/charge,25 km/Hr
+301,EMotorad Desert Eagle,Rs. 4.75 Lakh,,,,
+302,Geliose Hope,"Rs. 46,999",75 km/charge | 25 km/Hr | 4 Hr,75 km/charge,25 km/Hr,4 Hr
+303,Prevail Electric Elite,Rs. 1.29 Lakh,220 km/charge | 80 km/Hr | 8 Hr,220 km/charge,80 km/Hr,8 Hr
+304,Prevail Electric Finesse,"Rs. 99,999",110 km/charge | 60 km/Hr | 4 Hr,110 km/charge,60 km/Hr,4 Hr
+305,Prevail Electric Wolfury,"Rs. 89,999",110 km/charge | 50 km/Hr | 4 Hr,110 km/charge,50 km/Hr,4 Hr
+306,Warivo Motors Queen SX,"Rs. 75,300",55-80 km/charge | 5-8 Hr,55-80 km/charge,5-8 Hr,
+307,Warivo Motors Queen,"Rs. 46,800",95-100 km/charge | 5-8 Hr,95-100 km/charge,5-8 Hr,
+308,Warivo Motors Smarty,"Rs. 74,300",70 km/charge | 5-8 Hr,70 km/charge,5-8 Hr,
+309,Warivo Motors Enduro,"Rs. 53,800",65-75 km/charge,65-75 km/charge,,
+310,Viertric Eagle,"Rs. 70,095",60-70 km/charge | 57 km/Hr | 4-5 Hr,60-70 km/charge,57 km/Hr,4-5 Hr
+311,Viertric Mist,"Rs. 72,000",60-70 km/charge | 57 km/Hr | 4-5 Hr,60-70 km/charge,57 km/Hr,4-5 Hr
+312,Viertric XL,"Rs. 70,000",60-70 km/charge | 57 km/Hr | 4-5 Hr,60-70 km/charge,57 km/Hr,4-5 Hr
+313,Evtric Connect,"Rs. 69,771 - 95,151",106 km/charge | 55 km/Hr | 4-5 Hr,106 km/charge,55 km/Hr,4-5 Hr
+314,Rugged G1,"Rs. 78,498 - 1.02 Lakh",80-160 km/charge | 75 km/Hr | 4 Hr,80-160 km/charge,75 km/Hr,4 Hr
+315,Evtric Rise,Rs. 1.41 Lakh,100-110 km/charge | 70 km/Hr | 4-5 Hr,100-110 km/charge,70 km/Hr,4-5 Hr
+316,iVOOMi S1,"Rs. 84,999",2.1 Kwh | 100 km/charge | 55 km/Hr,2.1 Kwh,100 km/charge,55 km/Hr
+317,iVOOMi Eco,"Rs. 81,999",80 km/charge | 25 km/Hr | 4 Hr,80 km/charge,25 km/Hr,4 Hr
+318,iVOOMi Jeet,"Rs. 99,999",70 km/Hr | 5 Hr,70 km/Hr,5 Hr,
+319,One Moto Electa,Rs. 1.99 Lakh,150 km/charge | 85 km/Hr | 4 Hr,150 km/charge,85 km/Hr,4 Hr
+320,One Moto Commuta,Rs. 1.30 Lakh,1.65 Kwh | 80 km/charge | 55 km/Hr,1.65 Kwh,80 km/charge,55 km/Hr
+321,RBSeVA Rider New,"Rs. 70,750",70-80 km/charge | 3-4 Hr,70-80 km/charge,3-4 Hr,
+322,RBSeVA Legend,"Rs. 77,230",80-100 km/charge | 3-4 Hr,80-100 km/charge,3-4 Hr,
+323,RBSeVA Marvel,"Rs. 52,550",70-80 km/charge | 3-4 Hr,70-80 km/charge,3-4 Hr,
+324,RBSeVA Rider,"Rs. 67,689",70-80 km/charge | 3-4 Hr,70-80 km/charge,3-4 Hr,
+325,One Moto Byka,Rs. 1.80 Lakh,90-150 km/charge | 85 km/Hr | 5 Hr,90-150 km/charge,85 km/Hr,5 Hr
+326,GRP EV 11 Maxx,"Rs. 82,000",1.92 Kwh | 90-100 km/charge | 3-4 Hr,1.92 Kwh,90-100 km/charge,3-4 Hr
+327,GRP EV 11 Pro,"Rs. 84,000",1.92 Kwh | 90-100 km/charge | 3-4 Hr,1.92 Kwh,90-100 km/charge,3-4 Hr
+328,Cyborg Yoda,Rs. 1.84 Lakh,150 km/charge | 90 km/Hr | 4-5 Hr,150 km/charge,90 km/Hr,4-5 Hr
+329,Cyborg Bob-e,"Rs. 94,999",2.88 Kwh | 110 km/charge | 85 km/Hr,2.88 Kwh,110 km/charge,85 km/Hr
+330,GRP EV 11 Mini,"Rs. 74,500",1.5 Kwh | 60-70 km/charge | 3-4 Hr,1.5 Kwh,60-70 km/charge,3-4 Hr
+331,Wroley Mars,"Rs. 66,000",1.44 Kwh | 75 km/charge | 25 km/Hr,1.44 Kwh,75 km/charge,25 km/Hr
+332,Fidato Evtech EasyGo Plus,"Rs. 95,605",80-110 km/charge | 4-5 Hr,80-110 km/charge,4-5 Hr,
+333,Fidato Evtech Future 2020,"Rs. 70,300",60-80 km/charge | 4-5 Hr,60-80 km/charge,4-5 Hr,
+334,Fidato Evtech 21,"Rs. 89,199",80-110 km/charge | 4-5 Hr,80-110 km/charge,4-5 Hr,
+335,Fidato Evtech Cutie,"Rs. 54,600",60-70 km/charge | 3-4 Hr,60-70 km/charge,3-4 Hr,
+336,Wroley Platina,"Rs. 73,700",1.8 Kwh | 90 km/charge | 25 km/Hr,1.8 Kwh,90 km/charge,25 km/Hr
+337,Wroley Posh,"Rs. 78,100",1.8 Kwh | 90 km/charge | 25 km/Hr,1.8 Kwh,90 km/charge,25 km/Hr
+338,NIJ Automotive Accelero Plus,"Rs. 55,200 - 77,625",1.54 Kwh | 190 km/charge | 3-4 Hr,1.54 Kwh,190 km/charge,3-4 Hr
+339,Jitendra JMT Classic City,"Rs. 69,149 - 74,059",1.56 Kwh | 60-70 km/charge | 25 km/Hr,1.56 Kwh,60-70 km/charge,25 km/Hr
+340,NIJ Automotive Flion,"Rs. 57,788 - 76,763",3-4 Hr,3-4 Hr,,
+341,NIJ Automotive QV60,"Rs. 54,625 - 77,050",3-4 Hr,3-4 Hr,,
+342,Jitendra JMT 1000HS 26,"Rs. 89,000",66 km/charge | 52 km/Hr | 3.5-4 Hr,66 km/charge,52 km/Hr,3.5-4 Hr
+343,Jitendra Primo,"Rs. 79,999",66 km/charge | 52 km/Hr | 3.5-4 Hr,66 km/charge,52 km/Hr,3.5-4 Hr
+344,Jitendra JET 320,"Rs. 73,480 - 77,060",1.56 Kwh | 60-70 km/charge | 25 km/Hr,1.56 Kwh,60-70 km/charge,25 km/Hr
+345,GT Drive Pro,"Rs. 67,801 - 90,530",60-65 km/charge | 4-5 Hr,60-65 km/charge,4-5 Hr,
+346,GT Prime,"Rs. 57,417 - 77,763",60-65 km/charge | 25 km/Hr | 4-5 Hr,60-65 km/charge,25 km/Hr,4-5 Hr
+347,GT Drive Plus,Rs. 1.03 Lakh,100-110 km/charge | 60 km/Hr | 4-5 Hr,100-110 km/charge,60 km/Hr,4-5 Hr
+348,GT Soul,"Rs. 52,861 - 75,350",55-60 km/charge | 25 km/Hr | 7-8 Hr,55-60 km/charge,25 km/Hr,7-8 Hr
+349,GT Flying,"Rs. 54,338 - 77,763",60-65 km/charge | 25 km/Hr | 4-5 Hr,60-65 km/charge,25 km/Hr,4-5 Hr
+350,Firefox Adventron,"Rs. 63,000",,,,
+351,Firefox Urban Eco,"Rs. 74,999",90 km/charge,90 km/charge,,
+352,Hayasa Daksha,"Rs. 74,050",90 km/charge | 25 km/Hr,90 km/charge,25 km/Hr,
+353,Hayasa Ojas,"Rs. 80,550",90 km/charge | 25 km/Hr,90 km/charge,25 km/Hr,
+354,Hayasa Ira,"Rs. 76,750",90 km/charge | 25 km/Hr,90 km/charge,25 km/Hr,
+355,Komaki X2 Vogue,"Rs. 62,311 - 88,500",65-75 km/charge | 5 Hr,65-75 km/charge,5 Hr,
+356,Komaki TN-95,Rs. 1.31 - 1.39 Lakh,130-150 km/charge | 5 Hr,130-150 km/charge,5 Hr,
+357,Komaki XGT VP,"Rs. 62,305 - 84,681",75-80 km/charge | 5 Hr,75-80 km/charge,5 Hr,
+358,Polarity Smart Sport,"Rs. 40,000 - 1.10 Lakh",80 km/charge | 100 km/Hr | 4 Hr,80 km/charge,100 km/Hr,4 Hr
+359,Komaki XGT Classic,Rs. 1.08 Lakh,80-90 km/charge | 5 Hr,80-90 km/charge,5 Hr,
+360,Komaki LY,"Rs. 78,000",80-85 km/charge | 5 Hr,80-85 km/charge,5 Hr,
+361,Techo Electra Neo,"Rs. 55,053",1.15 Kwh | 55-60 km/charge | 2.5-4 Hr,1.15 Kwh,55-60 km/charge,2.5-4 Hr
+362,Li-ions Spock Electric Scooter,"Rs. 65,000",2.88 Kwh | 50-130 km/charge | 45 km/Hr,2.88 Kwh,50-130 km/charge,45 km/Hr
+363,Ujaas eSpa Li,"Rs. 54,880",1.5 Kwh | 75 km/charge | 3-4 Hr,1.5 Kwh,75 km/charge,3-4 Hr
+364,Ujaas eGo T3,"Rs. 56,880 - 70,224",2.3 Kwh | 100 km/charge | 6-7 Hr,2.3 Kwh,100 km/charge,6-7 Hr
+365,Ujaas eGo Li,"Rs. 50,880 - 53,880",75 km/charge | 3-4 Hr,75 km/charge,3-4 Hr,
+366,Polarity Smart Executive,"Rs. 38,000 - 1.05 Lakh",80 km/charge | 60 km/Hr,80 km/charge,60 km/Hr,
+367,BattRE Electric IOT,"Rs. 80,900",1.44 Kwh | 60-165 km/charge | 2.5 Hr,1.44 Kwh,60-165 km/charge,2.5 Hr
+368,BattRE Electric gps:ie,"Rs. 73,900",1.15 Kwh | 65 km/charge | 2.5 Hr,1.15 Kwh,65 km/charge,2.5 Hr
+369,Techo Electra Emerge,"Rs. 73,079",1.8 Kwh | 100 km/charge | 3-4 Hr,1.8 Kwh,100 km/charge,3-4 Hr
+370,Techo Electra Raptor,"Rs. 76,178",1.8 Kwh | 100 km/charge | 3-4 Hr,1.8 Kwh,100 km/charge,3-4 Hr
+371,Raftaar Electrica,"Rs. 48,540 - 70,900",100 km/charge | 4-5 Hr,100 km/charge,4-5 Hr,
+372,Raftaar Cruzer R1,"Rs. 84,500",100 km/charge | 4-5 Hr,100 km/charge,4-5 Hr,
+373,Raftaar Bumblebee,"Rs. 88,000",100 km/charge | 4-5 Hr,100 km/charge,4-5 Hr,
+374,Super Eco T1,"Rs. 56,772",70-80 km/charge | 55 km/Hr | 4-6 Hr,70-80 km/charge,55 km/Hr,4-6 Hr
+375,Rowwet Vegatron,Rs. 1.25 Lakh,65 km/Hr | 3 Hr,65 km/Hr,3 Hr,
+376,Rowwet Eleq,Rs. 1.16 Lakh,65 km/Hr | 3 Hr,65 km/Hr,3 Hr,
+377,Rowwet Rame,Rs. 1.15 Lakh,55 km/Hr | 3 Hr,55 km/Hr,3 Hr,
+378,Rowwet Zepop,"Rs. 61,770 - 78,500",65 km/Hr | 3 Hr,65 km/Hr,3 Hr,
+379,Birla Ambition,"Rs. 73,817 - 1.07 Lakh",1.56 Kwh | 4-5 Hr,1.56 Kwh,4-5 Hr,
+380,Birla A 1-4,Rs. 1.59 - 2.28 Lakh,1.56 Kwh,1.56 Kwh,,
+381,Birla DMG,Rs. 2.36 - 3.05 Lakh,1.56 Kwh,1.56 Kwh,,
+382,Birla DMS,Rs. 1.62 - 2.31 Lakh,1.56 Kwh,1.56 Kwh,,
+383,Birla V6,Rs. 1.59 - 2.28 Lakh,1.56 Kwh,1.56 Kwh,,
